@@ -50,7 +50,7 @@ namespace ConsoleApplication
                     Console.WriteLine("FizzBuzz");
                 }
                 else if (randomNum%3 == 0)
-                {
+                { 
                     Console.WriteLine("Fizz");
                 }
                 else if (randomNum%5 == 0)
